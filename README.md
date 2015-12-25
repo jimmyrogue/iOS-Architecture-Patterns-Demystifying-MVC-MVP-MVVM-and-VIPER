@@ -1,5 +1,5 @@
 #翻译 iOS Architecture Patterns Demystifying MVC, MVP, MVVM and VIPER
-[原文地址：](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.lo17irk94)
+[原文地址](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.lo17irk94)
 
 _英语水平一般，仅供参考，欢迎提出建议(尚未完成)_
 
