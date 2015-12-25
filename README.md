@@ -42,5 +42,16 @@ _英语水平一般，仅供参考，欢迎提出建议(尚未完成)_
 对于那些因为增加新功能或是重构一些错综复杂的类而失败的，对于单元测试觉得感激的开发者来说，并不算是问题。可能就是这些测试让开发者能够在上线前就找到问题，而不是当应用已经在用户的设备里，然后花了一个星期才将问题解决好，再送到用户手中。
 
 
+###易于使用？
+这个问题不需要回答，但是值得一提的是：the best code is the code that has never been written。所以你写的代码越少，问题也就越少。对于完全“懒惰”开发者来说渴望更少的代码是不需要解释的，你应该不赞成闭上眼睛是一个更聪明的解决方案。**（待修改）**
+
+###MV(X)的要点
+如今，当我们说到设计模式的时候已经有很多选择了
+
+- [MVC](https://zh.wikipedia.org/wiki/MVC)
+- [MVP](https://zh.wikipedia.org/wiki/Model_View_Presenter)
+- [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- [VIPER](https://www.objc.io/issues/13-architecture/viper/)
+
 
 
